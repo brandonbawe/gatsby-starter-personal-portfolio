@@ -71,16 +71,21 @@ export default class Header extends Component {
                   id="navbarResponsive"
                 >
                   <ul className="navbar-nav ml-auto">
+                  <li className="nav-item my-auto ml-2">
+                      <Link className="nav-link" to="/">
+                        Home
+                      </Link>
+                    </li>
                     <li className="nav-item my-auto ml-2">
                       <Link className="nav-link" to="/about">
                         About
                       </Link>
                     </li>
-                    {/* <li className="nav-item my-auto ml-2">
+                    <li className="nav-item my-auto ml-2">
                       <Link className="nav-link" to="/blog">
                         Blog
                       </Link>
-                    </li> */}
+                    </li>
                     <li className="nav-item my-auto ml-2">
                       <Link className="nav-link" to="/contact">
                         Contact
@@ -100,13 +105,13 @@ export default class Header extends Component {
                             {theme === "dark" ? (
                               <div>
                                 <span role="img" aria-label="Sun">
-                                  🌞
+                                  🌞 
                                 </span>
                               </div>
                             ) : (
                               <div>
                                 <span role="img" aria-label="Moon">
-                                  🌚
+                                  🌙 
                                 </span>
                               </div>
                             )}

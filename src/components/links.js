@@ -13,7 +13,7 @@ export default function Links() {
     <ul className="list-group list-group-horizontal">
       <li className="list-group-item">
         <a
-          href="mailto:emailName@gmail.com"
+          href="mailto:dbrandonbawe@gmail.com"
           target="_blank"
           rel="noreferrer"
           alt="email link"
@@ -23,7 +23,7 @@ export default function Links() {
       </li>
       <li className="list-group-item">
         <a
-          href="https://github.com/githubName"
+          href="https://github.com/brandonbawe"
           target="_blank"
           rel="noreferrer"
           alt="github link"
@@ -31,6 +31,18 @@ export default function Links() {
           <FontAwesomeIcon icon={faGithub} />
         </a>
       </li>
+      
+      <li className="list-group-item">
+        <a
+          href="https://twitter.com/flaacko_flaacko"
+          target="_blank"
+          rel="noreferrer"
+          alt="twitter link"
+        >
+          <FontAwesomeIcon icon={faTwitter} />
+        </a>
+      </li>
+
       <li className="list-group-item">
         <a
           href="https://linkedin.com/linkedInName"
@@ -39,16 +51,6 @@ export default function Links() {
           alt="linkedin link"
         >
           <FontAwesomeIcon icon={faLinkedin} />
-        </a>
-      </li>
-      <li className="list-group-item">
-        <a
-          href="https://twitter.com/twitterName"
-          target="_blank"
-          rel="noreferrer"
-          alt="twitter link"
-        >
-          <FontAwesomeIcon icon={faTwitter} />
         </a>
       </li>
     </ul>

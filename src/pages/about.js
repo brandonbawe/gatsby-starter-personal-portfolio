@@ -33,10 +33,8 @@ const AboutPage = () => (
                 </div>
 
                 <div className="card-text">
-                  Cupcake ipsum dolor sit amet sweet roll ice cream cheesecake
-                  chocolate. Lemon drops gummi bears biscuit. Pie gingerbread
-                  tart tootsie roll donut cheesecake. Muffin pie gingerbread
-                  dragée pudding tart tootsie roll.
+                  I am Damue Brandon Bawe a front-end web developer currently studying back end 
+                  development at 7 Academy in Douala. I'm an web enthusiast who is excited about fast emerging web technologies
                 </div>
               </div>
             </div>
@@ -59,16 +57,13 @@ const AboutPage = () => (
               <div className="card-body">
                 <div className="card-title">
                   <h2>More about me</h2>
-                  <h3>sweet and sweeter</h3>
+                  <h3>Just in case...</h3>
                 </div>
 
                 <div className="card-text">
-                  Bonbon chocolate bar ice cream brownie ice cream macaroon
-                  halvah. Toffee tart chupa chups ice cream croissant jujubes
-                  lollipop. Dragée jelly beans sesame snaps wafer muffin sesame
-                  snaps topping bonbon ice cream. Macaroon cake biscuit gummies
-                  sweet sweet chocolate cake. Danish sweet roll carrot cake
-                  croissant. Donut chocolate cake jelly beans.
+                 I was born on the 28th of October a long long time ago in Nkambe a village in 
+                 Bamenda in the North West Region of Cameroon. I went to high school at Saint Pual's College Nkwen Bamenda. I love reading, listening to
+                 music and meeting new people. 
                 </div>
               </div>
             </div>

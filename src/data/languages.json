@@ -1,47 +1,32 @@
 [
   {
-    "language": "C"
-  },
-  {
-    "language": "C++"
-  },
-  {
-    "language": "C#"
-  },
-  {
     "language": "HTML"
   },
   {
-    "language": "Java"
+    "language": "Typescript"
   },
   {
     "language": "Javascript"
   },
   {
-    "language": "Python"
+    "language": "Bootstrap"
   },
   {
-    "language": "Node"
+    "language": "NPM"
   },
   {
-    "language": "React"
+    "language": "Sass"
   },
   {
     "language": "GatsbyJS"
   },
   {
-    "language": "Machine Learning"
+    "language": "Angular"
   },
   {
-    "language": "Artificial Intelligence"
+    "language": "AMP"
   },
   {
-    "language": "Robotic Process Automation"
-  },
-  {
-    "language": "Web Development"
-  },
-  {
-    "language": "Agile Workflow"
+    "language": "WordPress"
   }
 ]

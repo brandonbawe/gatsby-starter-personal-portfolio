@@ -15,20 +15,19 @@ export default function Hero() {
             <div className="hero-introduction">
               <h1>
                 <span className="wave" role="img" aria-label="Hand wave">
-                  👋
+                  👋 
                 </span>
               </h1>
-              <h1>Hi. I'm Umiko</h1>
+              <h1>Hi. I'm Damue Brandon</h1>
               <p>
-                I work as a software developer at a game company. Will you be my
-                airsoft buddy?
+               A front-end web developer and student at 7 Advanced Academy Douala, Cameroon
               </p>
               <Link
                 to="content"
                 className="main-button btn btn-primary shadow-sm"
                 smooth={true}
               >
-                Get to know me
+                Get to know me 😇 
               </Link>
             </div>
           </div>
@@ -46,7 +45,7 @@ export default function Hero() {
                       alt="Hero Icon"
                     />
                   </div>
-                  <h3 className="card-title">@umikokommando</h3>
+                  <h3 className="card-title">@brandonbawe</h3>
                   <h4>
                     <span
                       className="mr-1"
@@ -56,13 +55,13 @@ export default function Hero() {
                     >
                       📍
                     </span>
-                    Tokyo
+                    Douala, Cameroon
                     <br />
                   </h4>
                   <p className="card-text">
-                    full-time software dev,
+                    front-end web developer,
                     <br />
-                    airsoft enthusiast
+                    dev enthusiast
                   </p>
                   <Links />
                 </div>

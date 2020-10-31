@@ -1,32 +1,20 @@
 [
   {
-    "project": "Project Sample #1",
-    "language": "NodeJS",
-    "description": "A short description about the project.",
+    "project": "Food App",
+    "language": "Angular",
+    "description": "A static app for finding restaurants around",
     "link": "https://github.com/"
   },
   {
-    "project": "Project Sample #2",
-    "language": "VueJS",
-    "description": "A short description about the project.",
+    "project": "Operation Dashboard",
+    "language": "Bootstrap",
+    "description": "A simple Bootstrap admin dashboard",
     "link": "https://github.com/"
   },
   {
-    "project": "Project Sample #3",
-    "language": "Python",
-    "description": "A short description about the project.",
-    "link": "https://github.com/"
-  },
-  {
-    "project": "Project Sample #4",
-    "language": "Java",
-    "description": "A short description about the project.",
-    "link": "https://github.com/"
-  },
-  {
-    "project": "Project Sample #5",
-    "language": "NodeJS",
-    "description": "A short description about the project.",
+    "project": "Clone Couture",
+    "language": "AMP",
+    "description": "A website for a Cameroon Based fashion house.",
     "link": "https://github.com/"
   }
 ]

@@ -12,11 +12,11 @@ const ContactPage = () => (
       <div className="container">
         <div className="row mt-4">
           <div className="col-md-8">
-            <h1>Contact Details</h1>
+            <h1>Hit Me Up</h1>
             <p>
-              Hi! How are you? Thank you for visiting my site. If you have any
+              I appreciate working with people to create solution for various digital needs. If you have any
               inquiries or feedback, please don't hesitate to reach out. I am
-              available at the following social media outlets:
+              available on the following social media platforms:
             </p>
             <Links />
             <p>
@@ -27,16 +27,15 @@ const ContactPage = () => (
               <li>Website Development</li>
               <li>User Interface (UI) Design</li>
               <li>Logo Creation</li>
-              <li>Website Scraping Automation</li>
-              <li>Quality Assurance Testing</li>
+              <li>Digital Marketing</li>
             </ul>
 
-            <a
+            {/* <a
               href="content"
               className="main-button btn btn-primary shadow-sm mt-2"
             >
               Download my resume
-            </a>
+            </a> */}
           </div>
           <div className="col-lg-4 my-auto">
             <div className="img-container">

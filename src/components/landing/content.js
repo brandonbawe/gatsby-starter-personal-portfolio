@@ -51,26 +51,22 @@ export default class Content extends Component {
                   <div className="card">
                     <div className="card-body">
                       <div className="card-title">
-                        <h3>Eagle Jump Co. Ltd.</h3>
+                        <h3>7 Academy Douala, Cameroon</h3>
                         <h4>
                           <FontAwesomeIcon
                             icon={faBriefcase}
                             className="mr-2"
                           />{" "}
-                          Software Developer
+                            Front-end Developer and Student
                         </h4>
                         <h4>
                           <FontAwesomeIcon icon={faCalendar} className="mr-2" />{" "}
-                          Jun 2010 - Present
+                          Dec 2019 - Present
                         </h4>
                       </div>
 
                       <div className="card-text">
-                        ◆ I work with Japan's biggest JRPG titles, Fairies
-                        Story. I oversee the software development involving the
-                        characters in the game.
-                        <br />◆ I also lead the testers of the game in its alpha
-                        and beta releases.
+                        ◆ I am a fullstack web app development student at 7 Academy.
                       </div>
                     </div>
                   </div>
@@ -113,28 +109,27 @@ export default class Content extends Component {
                   <div className="card">
                     <div className="card-body">
                       <div className="card-title">
-                        <h3>Tokyo Institute of Technology</h3>
+                        <h3>Seven Advanced Academy Douala, Cameroon</h3>
                         <h4>
                           <FontAwesomeIcon
                             icon={faGraduationCap}
                             className="mr-2"
                           />
-                          Computer Science
+                          Full stack web application development.
                         </h4>
                         <h4>
                           <FontAwesomeIcon
                             icon={faUserGraduate}
                             className="mr-2"
                           />{" "}
-                          Jan 2010
+                          Dec 2019 - present
                         </h4>
                       </div>
 
                       <div className="card-text">
-                        I earned my Bachelor's Degree in Computer Science in
-                        Tokyo Institute of Technology. For my undergraduate
-                        thesis, I wrote this model motion development through
-                        convolutional neural networks.
+                        I earned my front-end developer certification at Seven Academy in October of 2020 and I'm in the backend part of my 
+                        full stack web development course. Before that I was a 
+                        student of Petroleum Engineering at the University Of Bamenda School of Engineering (NAHPI).
                       </div>
                     </div>
                   </div>
