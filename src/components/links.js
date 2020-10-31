@@ -45,7 +45,7 @@ export default function Links() {
 
       <li className="list-group-item">
         <a
-          href="https://linkedin.com/linkedInName"
+          href="https://www.linkedin.com/in/damue-brandon-bawe-73ba121a1/"
           target="_blank"
           rel="noreferrer"
           alt="linkedin link"
