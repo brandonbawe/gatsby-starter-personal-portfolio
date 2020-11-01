@@ -2,14 +2,14 @@ import React, { Component } from "react"
 import { StaticQuery, graphql } from "gatsby"
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
-import { faEnvelope, faArrowUp } from "@fortawesome/free-solid-svg-icons"
+import { faEnvelope } from "@fortawesome/free-solid-svg-icons"
 import {
   faTwitter,
   faGithub,
   faLinkedin,
 } from "@fortawesome/free-brands-svg-icons"
 
-import { Link } from "react-scroll"
+
 
 export default class Footer extends Component {
   render() {
@@ -30,7 +30,7 @@ export default class Footer extends Component {
               <div className="container py-4">
                 <div className="row justify-content-center mt-2">
                   <ul className="list-style-none">
-                    <li className="list-inline-item ml-2">
+                    {/* <li className="list-inline-item ml-2">
                       <Link
                         to="header"
                         className="link"
@@ -40,7 +40,7 @@ export default class Footer extends Component {
                       >
                         <FontAwesomeIcon icon={faArrowUp} />
                       </Link>
-                    </li>
+                    </li> */}
                     <li className="list-inline-item mr-4" alt="site title">
                       &copy; {new Date().getFullYear()}.{" "}
                       {data.site.siteMetadata.title}.

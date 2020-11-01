@@ -81,11 +81,11 @@ export default class Header extends Component {
                         About
                       </Link>
                     </li>
-                    <li className="nav-item my-auto ml-2">
+                    {/* <li className="nav-item my-auto ml-2">
                       <Link className="nav-link" to="/blog">
                         Blog
                       </Link>
-                    </li>
+                    </li> */}
                     <li className="nav-item my-auto ml-2">
                       <Link className="nav-link" to="/contact">
                         Contact
