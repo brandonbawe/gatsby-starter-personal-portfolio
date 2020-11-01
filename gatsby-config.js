@@ -6,6 +6,7 @@
 
 module.exports = {
   /* Your site config here */
+  pathPrefix: "gatsby-starter-personal-portfolio"
   siteMetadata: {
     title: `brandonbawe`,
     description: `A minimalistic resume style Gatsby portfolio.`,
